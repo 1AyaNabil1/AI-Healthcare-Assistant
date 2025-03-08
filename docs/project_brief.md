@@ -1,0 +1,2 @@
+**Research Contribution**  
+This project doubles as a research study, exploring multi-modal AI’s efficacy in healthcare diagnostics. A paper will be submitted to an AI/healthcare venue (e.g., Kaggle write-up or conference) by April 2025, featuring empirical results and a novel chess-narrative framework.
